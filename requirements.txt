@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+uszipcode
+altair
+sqlalchemy==1.4.52
+fpdf
